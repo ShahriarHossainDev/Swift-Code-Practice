@@ -51,7 +51,7 @@ print("Initial Array: \(dailyActivities)")
 dailyActivities[1] = "Sleep"
 
 print("Updated Array:  \(dailyActivities)")
- 
+
 // Remove an Element from an Array
 var languages_1 = ["Swift","Java","Python"]
 
@@ -69,7 +69,7 @@ let fruits = ["Apple", "Peach", "Mango"]
 
 // for loop to iterate over array
 for fruit in fruits {
-  print(fruit)
+    print(fruit)
 }
 
 // Find Number of Array Elements
@@ -99,7 +99,7 @@ print("Is evenNumbers empty? : \(result)")
 
 // array with String and integer data
 var address: [Any] = ["Scranton", 570]
- 
+
 print(address)
 
 var someStrs = [String]()
@@ -108,5 +108,5 @@ someStrs.append("Apple")
 someStrs.append("Amazon")
 someStrs += ["Google"]
 for item in someStrs {
-   print(item)
+    print(item)
 }

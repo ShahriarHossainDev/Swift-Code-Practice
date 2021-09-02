@@ -65,25 +65,25 @@ print("C 结果为：\(C)")
 
 //以下测试已注释，可去掉注释测试每个实例
 /*
-C %= A
-print("C 结果为：\(C)")
-
-
-C <<= A
-print("C 结果为：\(C)")
-
-C >>= A
-print("C 结果为：\(C)")
-
-C &= A
-print("C 结果为：\(C)")
-
-C ^= A
-print("C 结果为：\(C)")
-
-C |= A
-print("C 结果为：\(C)")
-*/
+ C %= A
+ print("C 结果为：\(C)")
+ 
+ 
+ C <<= A
+ print("C 结果为：\(C)")
+ 
+ C >>= A
+ print("C 结果为：\(C)")
+ 
+ C &= A
+ print("C 结果为：\(C)")
+ 
+ C ^= A
+ print("C 结果为：\(C)")
+ 
+ C |= A
+ print("C 结果为：\(C)")
+ */
 
 // Interval Operators
 print("闭区间运算符:")

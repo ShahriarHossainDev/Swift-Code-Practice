@@ -82,7 +82,7 @@ print( "\(var_A), length is \((var_A.count))" )
 
 // String Iterating
 for chars in "ThisString" {
-   print(chars, terminator: " ")
+    print(chars, terminator: " ")
 }
 
 // Unicode Strings
@@ -90,12 +90,12 @@ var unicodeString = "Dog???"
 
 print("UTF-8 Codes: ")
 for code in unicodeString.utf8 {
-   print("\(code) ")
+    print("\(code) ")
 }
 
 print("\n")
 
 print("UTF-16 Codes: ")
 for code in unicodeString.utf16 {
-   print("\(code) ")
+    print("\(code) ")
 }

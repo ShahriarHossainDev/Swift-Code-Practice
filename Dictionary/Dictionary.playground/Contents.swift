@@ -47,7 +47,7 @@ var classification = ["Fruit": "Apple", "Vegetable": "Broccoli", "Beverage": "Mi
 print("Keys: Values")
 // Iterate Over a Dictionary
 for (key,value) in classification {
-  print("\(key): \(value)")
+    print("\(key): \(value)")
 }
 
 // Create an Empty Dictionary

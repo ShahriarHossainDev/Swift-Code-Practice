@@ -39,15 +39,15 @@ print(distance)
 // varA is inferred to be of type String
 var varA = "Love is life"
 print(varA)
-  
+
 // varB is inferred to be of type Int
 var varB = 143
 print(varB)
-  
+
 // varC is inferred to be of type Double
 var varC = 3.1416
 print(varC)
-  
+
 // varD is also inferred to be of type Double
 var varD = 3 + 0.1416
 print(varD)  
